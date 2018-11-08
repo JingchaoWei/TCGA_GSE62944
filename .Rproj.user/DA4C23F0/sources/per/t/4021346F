@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541639559286.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1997998903",
+    "id" : "4021346F",
+    "lastKnownWriteTime" : 1541643671,
+    "last_content_update" : 1541643671378,
+    "path" : "~/GitHub/TCGA_GSE62944/GSE62944data2mysql.R",
+    "project_path" : "GSE62944data2mysql.R",
+    "properties" : {
+        "cursorPosition" : "26,19",
+        "scrollLine" : "12"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
